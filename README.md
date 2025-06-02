@@ -25,22 +25,26 @@
 
 ### 🧪 Projects I'm Working On
 
-#### 🖥️ CLI Tools
-- ✅ Task Tracker – Track and manage tasks from the terminal  
-- ✅ GitHub User Activity – View GitHub user activity using GitHub API  
-- ✅ Expense Tracker – Simple CLI finance manager  
-- ✅ Number Guessing Game – Just for fun!  
-- ✅ TMDB CLI Tool – Get movie info using the TMDB API  
+- 🔍 Job Board Platform  
+  - User registration and authentication  
+  - Job posting, searching, and filtering  
+  - Admin dashboard for managing listings and users
 
-#### 🌐 Web Apps
-- ✅ Unit Converter – Convert units like length, weight, etc.  
-- ✅ Personal Blog – Write and publish your own articles
+- 📚 Online Course Platform (Mini LMS)  
+  - Instructor course creation and management  
+  - Student enrollment, lesson viewing, and quizzes
 
-#### 📡 APIs
-- ✅ Weather API – Get real-time weather data via API  
-- ✅ Blogging Platform API – RESTful API for a blog site  
-- ✅ Todo List API – Manage todos with user authentication  
-- ✅ Expense Tracker API – Backend for tracking expenses
+- 🎟️ Event Booking System  
+  - Seat reservation and QR code ticket generation  
+  - Admin panel for event and attendee management
+
+- 🛠️ Support Ticket System  
+  - User ticket submission and status tracking  
+  - Staff replies and issue resolution workflow
+
+- 🍽️ Recipe Sharing Community  
+  - Recipe posting, rating, and commenting  
+  - Search, categories, and image uploads
 
 ---
 
